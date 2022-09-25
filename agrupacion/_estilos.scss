@@ -1,0 +1,53 @@
+.fotofondo{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url(/imagenes-bmw/bmw-i4-m50-32420-1653117245_1\ \(1\).jpg);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    align-items: center;
+}
+
+header{
+    a{
+        color: chartreuse;
+        font-size: large;
+        font-weight: bold;
+        margin-right: 30px;
+        text-decoration: none;
+    }
+}
+
+
+.titulofoto{
+    margin-top: -180px;
+    margin-right: 600px;
+    color: chartreuse;
+    margin-left: 60px;
+}
+ .boton{
+    width: 200px;
+    height: 50px;
+    background-color: #1C69D5;
+    padding-left: 25px;
+    border: none;
+}
+
+main{
+    nav{
+        margin-top: 200px;
+        margin-left: 150px;
+    }
+    a{
+        margin-right: 50px;
+        color: black;
+        font-family: sans-serif;
+        font-weight: bold;
+        font-size: large;
+        text-decoration: none;
+        margin-bottom: 50px;
+    }
+}
